@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mirepo\\repocitorio\\resta\\resta.csproj",
-      "projectName": "resta",
-      "projectPath": "C:\\mirepo\\repocitorio\\resta\\resta.csproj",
+      "projectUniqueName": "C:\\mirepo\\repocitorio\\adicion\\adicion.csproj",
+      "projectName": "adicion",
+      "projectPath": "C:\\mirepo\\repocitorio\\adicion\\adicion.csproj",
       "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
-      "outputPath": "C:\\mirepo\\repocitorio\\resta\\obj\\",
+      "outputPath": "C:\\mirepo\\repocitorio\\adicion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
