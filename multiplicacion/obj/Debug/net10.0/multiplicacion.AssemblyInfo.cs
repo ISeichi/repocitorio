@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("division")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("multiplicacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1344040bb406a4893ab99f727d3ce0c842c3ca2d")]
-[assembly: System.Reflection.AssemblyProductAttribute("division")]
-[assembly: System.Reflection.AssemblyTitleAttribute("division")]
+[assembly: System.Reflection.AssemblyProductAttribute("multiplicacion")]
+[assembly: System.Reflection.AssemblyTitleAttribute("multiplicacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
